@@ -1,6 +1,6 @@
 # HTML-FOUNDATIONS
 
-# Basics of HTML & CSS
+## Basics of HTML & CSS
 
 **HTML and CSS** are two of the *foundational building blocks* of pretty much everything on the web.
 
