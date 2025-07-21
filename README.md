@@ -1,8 +1,8 @@
 # HTML-FOUNDATIONS
 
-### Basics of HTML & CSS
+### Introduction to HTML & CSS
 
-**HTML and CSS** are two of the *foundational building blocks* of pretty much everything on the web.
+**HTML and CSS** are two of the *foundational building blocks* of Web Development.
 
 **HTML** works together **CSS**, two languages that create everything you see when you look at something on the Internet.
 
