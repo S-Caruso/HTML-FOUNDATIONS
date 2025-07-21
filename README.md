@@ -2,12 +2,8 @@
 
 ### Introduction to HTML & CSS
 
-**HTML and CSS** are two of the *foundational building blocks* of Web Development.
+**The relation between HTML and CSS** is strongly tied together since HTML is the very foundation of a site and CSS is all of the aesthetics of an entire website.
 
-**HTML** works together **CSS**, two languages that create everything you see when you look at something on the Internet.
-
-**HTML** provides **structure and meaning** to our text: it creates all the text, links, cards, lists, and buttons.<br>
-**CSS** is what adds **style** to those plain elements.
-
-**HTML** puts information on a webpage.<br>
-**CSS** positions that information, gives it color, changes the font, and makes it look great!
+In simple words:<br>
+**HTML** provides **structure** and **meaning** to the web page<br>
+**CSS** allows to precisely **style** it
