@@ -35,7 +35,7 @@ These languages enable us to build, organize and share code, process large amoun
 
 **Cascading**<br>
 In web development this word refers to **how styles are applied to HTML elements**; a top-down definition of styles where newer styles override previous styles.<br>
-CSS rules can be defined in multiple places (inline styles, internal stylesheets, and external stylesheets) so the term “cascading” highlights how CSS applies a hierarchy of rules, where certain rules take precedence over others based on defined principles.
+CSS rules can be defined in multiple places (inline styles, internal stylesheets and external stylesheets) so the term “cascading” highlights how CSS applies a hierarchy of rules, where certain rules take precedence over others based on defined principles.
 
 **CSS Cascading order precedence** from highest priority to lowest one:
 
