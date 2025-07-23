@@ -18,3 +18,8 @@ Used to style the content of a web page, it lets developers control the visual a
 In simple words:<br>
 **HTML** provides **structure** and **meaning** to the web page<br>
 **CSS** allows to precisely **style** it
+
+## In-depth
+
+**Hypertext**<br>
+Text (often with embeds such as images, too) displayed on a web page or in a document which contains links to other information, making it possible **to navigate between different content** in a nonlinear way.<br>
