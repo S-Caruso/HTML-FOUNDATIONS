@@ -28,3 +28,7 @@ Text (often with embeds such as images, too) displayed on a web page or in a doc
 A system that defines a set of rules on **how the structure and presentation of content should appear** in a digital document.It allows document formatting, data storage, and specifying how different elements should be displayed (or “rendered”) on web pages; it helps to easily format websites to make them accessible to users. Its main job is to make everything readable for humans.<br>
 **Markup** is a term originated from traditional publishing practices, where editors would mark manuscripts with annotations or corrections.<br>
 In digital contexts, **markup languages** supply a similar function, with “marking up” done through the use of tags. These tags provide computers with instructions on how to interpret and display the content.
+
+**Programming language**<br>
+Formal language containing a set of instructions, written by programmers, that **enables humans to communicate with computers**, creating the technology we use every day; telling them what to do, computers are able to perform and accomplish tasks and get the desired outputs.<br>Like spoken languages, each language has its own unique syntax, structure, vocabulary, and even slang or shortcuts.
+These languages enable us to build, organize and share code, process large amounts of data, specify functionality and behavior, automate and improve efficiency, and solve problems creatively.
