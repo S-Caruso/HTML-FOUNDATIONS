@@ -42,4 +42,4 @@ CSS rules can be defined in multiple places (inline styles, internal stylesheets
 **Inline CSS >  Internal CSS > External CSS > Browser Default/User Styles**
 
 **Style sheet language**<br>
-It's a computer language that **describes the appearance and layout** of a web page written in HTML. It contains the style rules that determine how elements on the page should be displayed.
+It's a computer language that **describes the appearance and layout** of a web page written in HTML.<br> It contains the style rules that determine how elements on the page should be displayed.
