@@ -23,3 +23,8 @@ In simple words:<br>
 
 **Hypertext**<br>
 Text (often with embeds such as images, too) displayed on a web page or in a document which contains links to other information, making it possible **to navigate between different content** in a nonlinear way.<br>
+
+**Markup language**<br>
+A system that defines a set of rules on **how the structure and presentation of content should appear** in a digital document.It allows document formatting, data storage, and specifying how different elements should be displayed (or “rendered”) on web pages; it helps to easily format websites to make them accessible to users. Its main job is to make everything readable for humans.<br>
+**Markup** is a term originated from traditional publishing practices, where editors would mark manuscripts with annotations or corrections.<br>
+In digital contexts, **markup languages** supply a similar function, with “marking up” done through the use of tags. These tags provide computers with instructions on how to interpret and display the content.
