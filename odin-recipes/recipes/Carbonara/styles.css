@@ -51,3 +51,7 @@ ol, li > h3 {
 h2, h3, ol, li, p {
   margin-right: 7px;
 }
+
+p {
+  text-align: center;
+}
